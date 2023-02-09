@@ -2,3 +2,6 @@ This is chat application
 Emoji
 Typing option
 vibrant
+
+darkmode
+videocalls
